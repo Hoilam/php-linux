@@ -65,6 +65,7 @@
               <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding>
                 <element signature="e#6#70#0#PHP" expanded="true" />
+                <marker date="1480342591216" expanded="true" signature="297:316" ph="..." />
               </folding>
             </state>
           </provider>
@@ -97,18 +98,46 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
               <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding />
+              <folding>
+                <marker date="1480344949260" expanded="true" signature="106:144" ph="..." />
+                <marker date="1480344949260" expanded="true" signature="156:194" ph="..." />
+                <marker date="1480344949260" expanded="true" signature="206:244" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="text.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.3PHP/text.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="286">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding>
                 <element signature="e#6#63#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.4PHP/text2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="e#6#62#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text3.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.5/text3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+              <folding>
+                <element signature="e#6#97#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,6 +172,8 @@
         <option value="$PROJECT_DIR$/3.10PHP/jump.php" />
         <option value="$PROJECT_DIR$/4.1PHP/lesson_19.php" />
         <option value="$PROJECT_DIR$/4.3PHP/text.php" />
+        <option value="$PROJECT_DIR$/4.4PHP/text2.php" />
+        <option value="$PROJECT_DIR$/4.5/text3.php" />
       </list>
     </option>
   </component>
@@ -229,7 +260,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="4.3PHP">
+            <PATH_ELEMENT USER_OBJECT="4.5">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -254,14 +285,7 @@
       <recent name="$PROJECT_DIR$/PHP2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.text.php">
-    <configuration default="false" name="3.10PHP" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$/3.10PHP" />
-      <method />
-    </configuration>
-    <configuration default="false" name="jump.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/3.10PHP/jump.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.text3.php">
     <configuration default="false" name="lesson_18.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/3.10PHP/lesson_18.php">
       <method />
     </configuration>
@@ -269,6 +293,12 @@
       <method />
     </configuration>
     <configuration default="false" name="text.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/4.3PHP/text.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="text2.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/4.4PHP/text2.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="text3.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/4.5/text3.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -318,19 +348,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="PHPUnit.3.10PHP" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.jump.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.lesson_18.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.lesson_19.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.text.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.lesson_18.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lesson_19.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.text.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.text2.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.text3.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.text.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lesson_19.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.lesson_18.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHPUnit.3.10PHP" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.jump.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.text3.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.text2.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.text.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.lesson_19.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.lesson_18.php" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +381,7 @@
       <workItem from="1479794492101" duration="191000" />
       <workItem from="1479794847436" duration="3814000" />
       <workItem from="1479799791344" duration="11717000" />
-      <workItem from="1479830737224" duration="17076000" />
+      <workItem from="1479830737224" duration="21553000" />
     </task>
     <servers />
   </component>
@@ -364,7 +394,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34634000" />
+    <option name="totallyTimeSpent" value="39111000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -377,17 +407,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="46" width="1928" height="986" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17384285" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17384285" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971016" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992464" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2093596" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5726601" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2770936" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2770936" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17115177" sideWeight="0.50623053" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30541873" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -693,7 +723,7 @@
         <state relative-caret-position="377">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
-            <element signature="e#6#62#0#PHP" expanded="true" />
+            <element signature="e#6#62#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -703,7 +733,7 @@
         <state relative-caret-position="331">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
-            <element signature="e#6#61#0#PHP" expanded="true" />
+            <element signature="e#6#61#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -731,6 +761,7 @@
           <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding>
             <element signature="e#6#70#0#PHP" expanded="true" />
+            <marker date="1480342591216" expanded="true" signature="297:316" ph="..." />
           </folding>
         </state>
       </provider>
@@ -757,16 +788,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
+          <folding>
+            <marker date="1480344949260" expanded="true" signature="106:144" ph="..." />
+            <marker date="1480344949260" expanded="true" signature="156:194" ph="..." />
+            <marker date="1480344949260" expanded="true" signature="206:244" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4.3PHP/text.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="286">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding>
             <element signature="e#6#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.4PHP/text2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#6#62#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.5/text3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="e#6#97#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
