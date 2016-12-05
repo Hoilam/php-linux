@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de0cdbae-6cd8-44aa-99d0-6847341ac6c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.10PHP/lesson_24.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.8PHP/lesson_22.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.9PHP/lesson_23.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.12PHP/lesson_26.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.13PHP/lesson_27.php" />
     </list>
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,13 +74,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson_24.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson_24.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.10PHP/lesson_24.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="-251">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
               <folding>
                 <element signature="e#6#64#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson_26.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.12PHP/lesson_26.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+              <folding>
+                <element signature="e#6#59#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson_27.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.13PHP/lesson_27.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+              <folding>
+                <element signature="e#6#59#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,6 +149,8 @@
         <option value="$PROJECT_DIR$/4.8PHP/lesson_22.php" />
         <option value="$PROJECT_DIR$/4.9PHP/lesson_23.php" />
         <option value="$PROJECT_DIR$/4.10PHP/lesson_24.php" />
+        <option value="$PROJECT_DIR$/4.12PHP/lesson_26.php" />
+        <option value="$PROJECT_DIR$/4.13PHP/lesson_27.php" />
       </list>
     </option>
   </component>
@@ -219,7 +244,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="4.10PHP">
+            <PATH_ELEMENT USER_OBJECT="4.13PHP">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -243,13 +268,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.lesson_22.php">
-    <configuration default="false" name="text2.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/4.4PHP/text2.php">
-      <method />
-    </configuration>
-    <configuration default="false" name="text3.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/4.5/text3.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.lesson_27.php">
     <configuration default="false" name="text4.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/4.6PHP/text4.php">
       <method />
     </configuration>
@@ -257,6 +276,12 @@
       <method />
     </configuration>
     <configuration default="false" name="lesson_22.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/4.8PHP/lesson_22.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="lesson_26.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/4.12PHP/lesson_26.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="lesson_27.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/4.13PHP/lesson_27.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -306,19 +331,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.text2.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.text3.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.text4.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.lesson_21.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.lesson_22.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.text4.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lesson_21.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.lesson_22.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.lesson_26.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.lesson_27.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.lesson_22.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lesson_21.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.text4.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.text3.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.text2.php" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.lesson_27.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.lesson_26.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.lesson_22.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.lesson_21.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.text4.php" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +365,7 @@
       <workItem from="1479794847436" duration="3814000" />
       <workItem from="1479799791344" duration="11717000" />
       <workItem from="1479830737224" duration="23681000" />
-      <workItem from="1480523866658" duration="8684000" />
+      <workItem from="1480523866658" duration="13640000" />
     </task>
     <servers />
   </component>
@@ -353,7 +378,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49923000" />
+    <option name="totallyTimeSpent" value="54879000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -370,12 +395,12 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17653391" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32799014" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799014" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971016" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992464" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5726601" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55487055" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27620223" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17115177" sideWeight="0.50623053" order="2" side_tool="true" content_ui="tabs" />
@@ -424,24 +449,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4.6PHP/text4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="e#6#81#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.7PHP/lesson_21.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson_1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -474,6 +481,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -596,6 +604,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -796,10 +805,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4.10PHP/lesson_24.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="-251">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
           <folding>
             <element signature="e#6#64#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.12PHP/lesson_26.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="e#6#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.13PHP/lesson_27.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="e#6#59#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
