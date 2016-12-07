@@ -36,6 +36,28 @@ function text2(){
 text2();
 text2();
 text2();
+text2();
+echo '<hr/>';
+
+$a = 10;
+$b = 'hoilam';
+$s = false;
+$i = 5.5;
+//global $a;在函数里面要调用全部局部需要用到global关键字
+function text3(){
+    global $a;
+    echo $a;
+}
+text3();
+echo '<hr/>';
+//$GLOBALS
+print_r($GLOBALS);
+echo '<hr/>';
+function text4(){
+    echo $GLOBALS['a'];
+}
+text4();
+
 
 
 
